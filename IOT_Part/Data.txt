@@ -1,0 +1,7 @@
+These will be the data that will received via api calls done from smart contracts :
+
+Temperature
+Humidity
+Heart Rate
+SpO2
+Body Temperature
