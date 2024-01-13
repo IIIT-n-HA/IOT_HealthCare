@@ -2,10 +2,10 @@
 pragma solidity ^0.8.0;
 
 /**
- * @title A sample Raffle contract. It is automated using chainlink automation.
+ * @title Patient Data Management
  * @author Harsh Anand.
- * @notice This contract is for creating a sample raffle.
- * @dev Implemeting Chainlink VRFv2.
+ * @notice This contract is for receiving patient's sensitive data feeds through api calls and storing it on blockchain.
+ * @dev This project is using Chainlink's oracle for receiving data through api calls. For more details visit: https://docs.chain.link/
  */
 
 import {D1} from "./D1.sol";
