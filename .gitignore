@@ -1,5 +1,8 @@
 # node modules
 
-node_modules
+/client/node_modules
 
+# secret.h
+
+/IOT_Part/secret.h
 
