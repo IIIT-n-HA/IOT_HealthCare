@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3VQn-1ZD7"
-#define BLYNK_TEMPLATE_NAME "Patient health monitoring device"
-#define BLYNK_AUTH_TOKEN "lT5TypibUC2EeYQPa89QzgkiJJXyyKbQ"
+#define BLYNK_TEMPLATE_ID "TMPLE-467"
+#define BLYNK_TEMPLATE_NAME "Your template name"
+#define BLYNK_AUTH_TOKEN "your token here"
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
@@ -13,10 +13,7 @@ int b=1;
 int c=1;
 int d=1;
 int e=1;
-//#include <ArduinoJson.h>
 
-//#define MQ4_PIN 23
-//#define ADC_UPPER_LIMIT 4095
 
 BlynkTimer timer;
 
